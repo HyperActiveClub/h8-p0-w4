@@ -1,7 +1,3 @@
-// Diberikan sebuah function angkaPrima(angka) yang menerima satu parameter berupa angka. Function akan me-return true jika angka tersebut adalah bilangan prima. Jika tidak, return false.
-
-
-
 function angkaPrima(angka) {
   // buat var pembanding
   var hasil = true;
