@@ -1,8 +1,3 @@
-// Diberikan sebuah function fpb(angka1, angka2) yang menerima dua parameter angka. 
-// Function akan mengembalikan nilai FPB (Faktor Persekutuan Terbesar). 
-// FPB dari dua bilangan merupakan bilangan bulat positif terbesar yang dapat membagi habis kedua bilangan tersebut.
-
-
 function fpb(angka1, angka2) {
     for(i = 1; i <= angka1; i++){ //perulangan
       var mod1 = angka1 % i; //var untuk mod parmeter dengan var i for.
